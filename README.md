@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @cent0day
 
 ## About Me
-Passionate IT professional with a solid foundation in Technical Support operations and a keen interest in network infrastructure and security. I am constantly enhancing my technical skill set through continuous learning and hands-on projects.
+I am constantly enhancing my technical skill set through continuous learning and hands-on projects.
 
 ## 👀 I’m interested in ...
 - Network infrastructure and security
